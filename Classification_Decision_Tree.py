@@ -1,4 +1,4 @@
-# Decision Trees
+# Decision Tree Algorithm
 
 # Decision trees are a popular intuitive machine learning algorithm used for both classification and regression tasks
 # Decision trees are a type of supervised learning algorithm that can be used for both categorical and numerical input features
